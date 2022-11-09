@@ -2,5 +2,6 @@
 
 s = input()
 
+res =s[s.find("a"):]
 
-print(s)
+print(res)
